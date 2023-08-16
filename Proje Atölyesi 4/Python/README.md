@@ -33,5 +33,3 @@ Bu programı çalıştırmak için Python yüklü olmalıdır. Aşağıdaki adı
 
 Bu program, temel Python becerilerini geliştirmek ve basit bir oyun senaryosunu anlamak için harika bir örnek olabilir. Keyifli oyunlar!
 ```
-
-Kodunuzu `tahmin_oyunu.py` adında bir dosyaya kaydedip bu `readme.md` dosyasıyla aynı dizinde saklarsanız, kullanıcılar programı indirip çalıştırmak için adımları takip edebilirler. Aynı zamanda bu açıklama, projenizin ne yaptığını ve nasıl kullanılacağını anlatırken okuyuculara yardımcı olur.
